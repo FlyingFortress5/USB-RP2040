@@ -29,6 +29,10 @@ A RP2040 powered mini dev board. It has 2 GPIO pins, and is intended mainly for 
 | C_0402_1005Metric                           | 1uF               | 2        |   |   |
 
 
+## Case
+A simple friction fit case
+
+![PCB](./Images/Screenshot%202025-12-05%20181059.png)
 ## Images
 
 ![PCB](./Images/IMG.png)
